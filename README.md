@@ -1,7 +1,7 @@
 # deep_learning_projects
 # Referneces
 
-![Screenshot_2021-02-24-11-33-54-600_org tensorflow lite examples classification](https://user-images.githubusercontent.com/63334004/108956200-5ef12a00-7695-11eb-8eb5-6d86fd80532e.jpg)
+![Screenshot_2021-02-24-11-33-54-600_org tensorflow lite examples classification_3_300x600](https://user-images.githubusercontent.com/63334004/108964419-759d7e00-76a1-11eb-9149-7e7584b9327d.jpg)
 
 
 
